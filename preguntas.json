@@ -1,0 +1,32 @@
+{
+    "preguntas": [
+        {
+            "keys": ["¿Cuales viajes tienes disponibles?","¿Para cuando tienes viajes?","¿Que viajes tienes programados?","¿Cuales son los siguientes viajes?","¿Cual es el siguiente viaje?","¿Informacion de los viajes disponibles?","¿Quiero ir al siguiente viaje?","¿viajes disponibles?"],
+            "response": "Para ver nuestros viajes disponibles utiliza /viajes o contactanos con /contacto para obtener informacion de futuros viajes."
+        },
+        {
+            "keys": ["¿Quien es TransLanda?", "¿Que funcion tiene Translanda?", "¿Cuantos años de experiencia tiene TransLanda?", "¿Cual es la historia de Translanda?"],
+            "response": "Somos una empresa de transporte y turismo con 80 años de experiencia y fundada hace 60 años."
+        },
+        {
+            "keys": ["¿Quienes son los dueños de Translanda?", "¿Quienes fundaron TransLanda?", "¿Quienes gestionan TransLanda?", "¿Quienes estan encargados de Translanda?"],
+            "response": "Es una empresa compuesta por varios socios."
+        },
+        {
+            "keys": ["¿Como hablo con los encargados de TransLanda?", "¿Como me comunico con TransLanda?", "¿Quiero comunicarme con TransLanda?", "¿Necesito el contacto de TransLanda?", "¿Quiero hablar con un encargado?", "¿Como me comunico con los dueños?"],
+            "response": "Para poder contactar con los encargados utilize /contacto."
+        },
+        {
+            "keys": ["¿Los niños pagan puesto?","¿mi hijo pequeño paga su puesto?","¿Mi hijo pequeño de 4 años paga?", "¿Los niños cancelan su puesto?", "¿A partir de que edad pagan los niños?", "¿Los niños pequeños pagan su puestos?", "¿mi niño de 5 años paga su puesto?"],
+            "response": "Los niños de 0 a 5 años no pagan su puesto con la condicion de ir en las piernas de su representante."
+        },
+        {
+            "keys": ["¿A que tasa reciben?", "¿En cuanto reciben el dolar?", "¿Aceptan a bcv o today?", "¿Reciben a bcv?", "¿Reciben a today?", "¿bcb?"],
+            "response": "Recibimos los pagos 💵 a tasa bcv  utilize /dolar para ver la tasa del dia."
+        },
+        {
+            "keys": ["¿cómo es la unidad de transporte?", "¿El bus tiene aire?", "¿como son los asientos del bus?", "¿Tienen expresos?"],
+            "response": "Contamos con dos tipo de unidades expresos cuenta con asientos reclinados, aire acondicionado y baños, autobuses habituales, sin aire acondicionado y butacas."
+        }
+    ]
+}

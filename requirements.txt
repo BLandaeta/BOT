@@ -1,0 +1,8 @@
+python-telegram-bot
+python-dotenv
+google-generativeai
+beautifulsoup4
+sentence-transformers
+fuzzywuzzy
+Flask
+requests
